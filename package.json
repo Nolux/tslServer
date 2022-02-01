@@ -4,15 +4,19 @@
   "description": "Simple server for receiving TSL UMD info from TCP/UDP",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "keywords": [
     "TSL",
     "server",
     "udp",
-    "tcp"
+    "tcp",
+    "npm",
+    "nodejs",
+    "tally",
+    "umd"
   ],
-  "author": "Atle Selbek",
+  "author": "Atle Selbek <atle.selbek@gmail.com",
   "license": "ISC",
   "dependencies": {
     "binary-parser": "^2.0.2"
