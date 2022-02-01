@@ -22,7 +22,13 @@ The server returns a object every time it receives data:
 }
 ```
 
-## How to use
+## Getting started
+
+```
+npm install tslserver
+```
+
+### Example
 
 ```javascript
 const TSLServer = require("tslserver");
